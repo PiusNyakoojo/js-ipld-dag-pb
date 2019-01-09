@@ -65,7 +65,7 @@
     "cids": "~0.5.4",
     "class-is": "^1.1.0",
     "is-ipfs": "~0.4.2",
-    "multihashing-async": "~0.5.1",
+    "multihashing-async": "~0.5.2",
     "protons": "^1.0.1",
     "pull-stream": "^3.6.9",
     "pull-traverse": "^1.0.3",
